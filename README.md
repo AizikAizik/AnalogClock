@@ -4,4 +4,7 @@ An Analog clock GUI App made with Java Swing and Java 2D API
 Go Into the src/com/Clock folder then compile and run the Clock.java file in terminal or IDE to execute program
 \
 \
-![Alt text](/images/clockProject.png?raw=true "App Screenshot")
+\
+<div align="center">
+    <img src="/images/clockProject.PNG" width="400px"</img> 
+</div>
